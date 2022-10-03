@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-- [<img src="./images/Frontend%20Mentor%20_%20QR%20code%20component%20-%20Google%20Chrome%2010_3_2022%202_34_13%20AM.png" width="250px"](./images/Frontend%20Mentor%20_%20QR%20code%20component%20-%20Google%20Chrome%2010_3_2022%202_34_13%20AM.png)
+- [<img src="./images/Frontend%20Mentor%20_%20QR%20code%20component%20-%20Google%20Chrome%2010_3_2022%202_34_13%20AM.png" width="250px" />](./images/Frontend%20Mentor%20_%20QR%20code%20component%20-%20Google%20Chrome%2010_3_2022%202_34_13%20AM.png)
 
 ### Links
 
