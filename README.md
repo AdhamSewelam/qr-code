@@ -1,6 +1,6 @@
 ## Overview
 
-- [Overview](QR code component)
+- QR code component
 
 ### Screenshot
 
@@ -9,7 +9,7 @@
 ### Links
 
 - Solution URL: [GitHub Code](https://github.com/AdhamSewelam/qr-code)
-- Live Site URL: [Live Demo](https://qr-code.netlify.app)
+- Live Site URL: [Live Demo](https://qrcodefrontend-mentor.netlify.app)
 
 ### Built with
 
